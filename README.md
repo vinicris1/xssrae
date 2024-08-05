@@ -1,5 +1,5 @@
 <p float="left">
- <img src="https://i.pinimg.com/originals/c1/f1/17/c1f1173329c9c4858210cea1b9c86170.jpg" width="350" align="left">
+ <img src="https://i.pximg.net/img-master/img/2023/09/05/22/12/12/111475077_p0_master1200.jpg" width="350" align="left">
   <p float="left">
     <samp>
       :3 
