@@ -1,5 +1,5 @@
 <p float="left">
- <img src="https://i.pximg.net/img-master/img/2023/09/05/22/12/12/111475077_p0_master1200.jpg" width="350" align="left">
+ <img src="" width="350" align="left">
   <p float="left">
     <samp>
       :3 
@@ -26,7 +26,10 @@
       <br>
       <br>
      <br>
-      <a href="https://lorewired.netlify.app/">website</a>
+      <a href="https://raeversing.hashnode.dev/">website</a>
+      <br>
+      <br>
+      <img src="https://i.pinimg.com/originals/7e/02/d4/7e02d46ace448205435d8c10d66bbceb.gif" width="350" align="left">
       <b>
     </samp>
     <br>
