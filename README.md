@@ -21,11 +21,11 @@
       <br>
       <br>
       tools:<br>
-          - <a href="https://remnux.org/">remnux</a><br>
-          - <a href="https://github.com/mandiant/flare-vm">flare-vm</a><br>
-          - <a href="https://www.genymotion.com/">genymotion</a><br>
-          - <a href="https://www.datadoghq.com/">datadog</a><br>
-          - <a href="https://obsidian.md/">obsidian</a><br> 
+          - <a href="https://remnux.org/">remnux</a> - malware analysis <br> 
+          - <a href="https://github.com/mandiant/flare-vm">flare-vm</a> - re best tools<br>
+          - <a href="https://www.genymotion.com/">genymotion</a> - android emulator <br>
+          - <a href="https://www.datadoghq.com/">datadog</a> - monitoring <br>
+          - <a href="https://obsidian.md/">obsidian</a> - notes taking<br> 
      <br>
      <br>
       blog:<br>
