@@ -17,7 +17,7 @@
       <br>
       <br>
       os:<br>
-        > arch (main), win11 w 3 vms: remnux + win11 + android emulator.
+        > arch (main), win11 with 3 vms: remnux + win11 + android emulator.
       <br>
       <br>
       tools:<br>
