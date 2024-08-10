@@ -8,7 +8,7 @@
       about me:<br>
              - she/her, brazilian, pt-br + eng + learning russian<br>
              - computer science student<br>
-             - working as software developer intern.<br>
+             - working as IT engineering intern.<br>
              - cybersecurity researcher - malware analyst with focus on mobile threats.<br>
       <br>
       <br>
